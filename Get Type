@@ -1,0 +1,13 @@
+<?php
+$x=5;
+$y=13.5;
+$z="Hello";
+
+$int=gettype($x);  //integer
+$float=gettype($y); //double
+    $char=gettype($z); //string
+   
+$return=is_int( $x );
+
+echo $int." $float ".$char." $return"; //$return will return true if $x is integer
+?> 
