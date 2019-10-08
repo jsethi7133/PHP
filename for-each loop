@@ -1,0 +1,10 @@
+<?php
+
+$fruits=array('apple','peach','mango','gauva','pineapple');
+
+foreach($fruits as $item)
+{
+    echo $item."<br/>";
+}
+
+?>
