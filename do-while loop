@@ -1,0 +1,12 @@
+<?php
+
+$count=6;
+do{
+    echo"This is the message";
+    $count++;
+}
+
+while($count<5)
+
+
+?>
