@@ -1,0 +1,15 @@
+<?php
+$marks=90;
+$grade='dist';
+
+if($marks>=90 && $grade=='dist')
+{
+echo"You are eligible for scholarship";
+}
+
+else
+{
+echo"Better luck next time";
+}
+
+?>
