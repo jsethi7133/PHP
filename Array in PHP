@@ -1,0 +1,10 @@
+<?php
+
+$marks=array(12,23,34,56);
+
+$marks=array('one',23,'Fifty Six',89,30);
+
+$marks3=[23,54,65,85];        //for php7 only
+
+
+?>
