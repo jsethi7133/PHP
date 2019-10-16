@@ -1,0 +1,19 @@
+<?php
+$fruit="apple";
+
+
+switch($fruit)
+{
+case"apple":
+echo"The fruit is apple";
+break;
+
+case"grape":
+echo"The fruit is grape";
+break;
+
+default:
+echo"No such fruit is available";
+}
+
+?>
