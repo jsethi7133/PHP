@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>
+    submit data
+    </title> 
+</head>
+
+    <body>
+    <form method="get">
+        <label for="num">Enter first number</label>
+        
+        <input type="number"  placeholder="number"><br>
+       
+          <label for="num">Enter second number</label>
+        
+        <input type="number"  placeholder="number"><br>
+       
+
+       <input type='submit'><br> 
+</form>
+    
+    
+</body>
+</html>
